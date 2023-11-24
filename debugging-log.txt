@@ -1,0 +1,12 @@
+Checked for typos in text editor:
+Line 3: Added # to querySelector ID and fixed typo ' to ".
+Line 4: Added # to querySelector ID.
+Line 5: Added # to querySelector ID.
+Line 6: Added # to querySelector ID.
+Line 19: Changed "" to ``
+
+Checked console to identify problem:
+Lines 39 to 42: Fixed function typos.
+
+Used logic to identify problem:
+Lines 28 to 37: Changed > to <=.
